@@ -96,4 +96,5 @@ int main()
 	MyVector a1(5, d1);
 	cout << (a1 == 1 ? "YES, Equal" : "NO");
 	//cout << (1.00001 - 1 > 0.00001);
+	cout << "HEY";
 }
